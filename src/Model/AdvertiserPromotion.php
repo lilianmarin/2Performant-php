@@ -11,6 +11,8 @@ class AdvertiserPromotion extends GenericEntity {
     protected $affiliateChallenge;
     protected $affiliateBonus;
     protected $banners;
+    protected $coupon;
+    protected $customerDescription;
     protected $productFeeds;
     protected $linkedFeeds;
     protected $shoppingEventId;
